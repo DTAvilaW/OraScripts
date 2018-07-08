@@ -8,8 +8,9 @@
 --
 -- Date/Version:  07/02/2018 version 1.0
 --
--- Usage:         @check_standby_gap.sql
---
+-- Usage:         Run in standby database side
+--                @check_standby_gap.sql
+--                
 -- Example:       @check_standby_gap.sql
 --
 --  Notes:     
